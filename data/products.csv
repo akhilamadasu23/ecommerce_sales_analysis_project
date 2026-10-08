@@ -1,0 +1,16 @@
+product_id,product_name,category,base_price
+1,Laptop,Electronics,55000
+2,Smartphone,Electronics,25000
+3,Headphones,Electronics,2500
+4,Keyboard,Electronics,1800
+5,Mouse,Electronics,900
+6,Backpack,Accessories,2200
+7,Shoes,Fashion,3000
+8,T-Shirt,Fashion,900
+9,Jeans,Fashion,1800
+10,Watch,Accessories,4500
+11,Coffee Maker,Home,5000
+12,Air Fryer,Home,6500
+13,Mixer Grinder,Home,4200
+14,Water Bottle,Home,700
+15,Notebook,Stationery,250
